@@ -1,0 +1,968 @@
+       C C
+1 çık+a.m.ıyor+um
+     E
+2 çık.ar+ım+lar
+     E          D
+3 çık.ar+ma+sı+y.dı
+     E        G
+4 çık.ar+sa+n.ız
+     E
+5 çık.ar+t+ıl+mak
+     E     A 
+6 çık.maz+ı.n+a
+
+7 çöl+ü
+       B 
+8 çömle.ğ+i
+        B   A 
+9 çöp+lü.ğ+ü.n+de
+
+10 çöz+üm+ü
+
+;11 çağan;*
+        C C
+12 çağ+l.ı.yor+lar
+           D
+13 çağ+la+y.an+lar+ı
+
+14 çaba+lar+ım+ın
+
+15 çak+mış+tı
+      F           G
+16 çal.ış+ıyor+sun.uz
+      F
+17 çal.ış+ıyor+um
+      F             A 
+18 çal.ış+acak+lar+ı.n+ı
+      F
+19 çal.ış+ma+lar+da
+      F              H
+20 çal.ış+tır+dık+lar.ı
+
+21 çal+dı+lar
+
+22 çal+gı+lar+la
+
+23 çam+lar+la
+       F     B 
+24 çarp.ıt+ma.y+a
+
+       F     B   A 
+25 çarp.ıt+tı.ğ+ı.n+ı
+
+26 çarp+ar+lar
+            D
+27 çarp+ma+s.ı+n+ın;* s and n are buffer letters
+
+28 çat+ıl+ır
+
+;29 çeaş
+
+30 çek+iş+ir
+
+31 çek+il+elim;* check the other alternative in MofphoChallenge data
+           D 
+32 çek+me+y.ebil+ir
+      L      
+33 çev.r+il+meli+dir
+
+34 çilingir+in
+
+35 çimento+lar
+
+36 çiz+gi+den
+
+37 çiz+gi+m
+
+38 çiz+gi+si+n+de+ki;* buffer letter
+
+39 çiz+gi+si+n+den;* buffer letter
+
+40 çoğ+al+tım+ı
+
+;41 ın
+             A 
+42 internet+i.n+i
+
+43 ısın+ır+ken
+         
+44 ısın+abil+ir+im
+
+45 ıs+lan+mak
+
+46 ıs+lan+ma+n+ın; *
+
+47 öğren+ci+de
+                          G
+48 öğren+ci+ler+im+miş+sin.iz
+
+49 öğren+me+si+dir
+
+50 öğret+me+miş
+     E
+51 öd.ünç
+         B 
+52 öde+di.ğ+ine
+
+53 öde+mez+ler+se
+
+54 öde+nti+ler+in
+                A 
+55 öde+nti+ler+i.n+in
+
+56 öde+r+iz
+
+57 öde+ye+mez+ler
+
+58 öfke+len+miş+ti
+       B   A 
+59 ölçe.ğ+i.n+e
+            G
+60 öl+dür+ün.üz
+
+61 öl+dür+ür+ler
+
+62 öl+dür+ür+ler+di
+
+63 öl+dür+en+e
+
+64 öl+ecek+miş
+
+;65 önderleri; *
+
+66 önem+se+meli
+
+67 önem+se+meli+yiz; *buffer letter
+           B    G
+68 öner+ece.ğ+im.iz;*
+     E
+69 ön.lem+i+dir
+     E
+70 ön.lem+ler+de
+     E
+71 ön.lem+ler+den
+     E         A 
+72 ön.lem+ler+i.n+in
+              B 
+73 örgüt+lü+lü.ğ+ün
+
+74 örgüt+len+erek
+
+75 örgüt+len+me+ler+e
+
+76 ör+me
+
+77 örnek+ti;*
+
+78 ör+t+ül+me+si;*
+
+79 öt+üş+üp
+
+80 öv+üyor+lar
+
+81 öveç+ler
+
+82 öyle+sin
+     E           D
+83 öz.el+leş+me+y.e
+
+       L   A;!!
+101 şek.l+i.n+den
+         A  
+102 şey+i.n+e
+
+103 şey+ler+de
+          B
+104 şiar+ı.n+ın
+
+105 şirket+leş+miş
+
+106 şube+ler+den
+
+107 üç+üncü+ler
+             D;!!
+108 üç+üncü+s.ü+n+ün
+              A
+109 üşü+dü+ğü.n+ü
+
+110 ücret+im+i
+           A
+111 ücret+i.n+i
+
+112 ücret+len+dir+il+meli+dir
+
+113 ülke+li
+          G
+114 ülke+m.iz+de+ki
+        A
+115 ün+ü.n+e
+
+;116 ünaydın
+              D
+117 üniforma+s.ı+n+da+ki
+
+118 ünite
+
+119 üniversite+ler+in
+                G
+120 üniversite+n.iz+i
+
+121 ün+len+miş
+
+122 ün+len+miş+tir
+      E
+123 ür.ün+de+ki
+      E          G
+124 ür.ün+ler+i+m.iz+den
+      E          G
+125 ür.ün+ler+i+n.iz
+      E
+126 ür.ün+ler+le
+
+127 üre+di
+
+128 üre+miş+ti
+
+129 üre+t+il+eme+miş+tir
+             
+130 üre+t+mek+te+ler
+        B
+131 üslu.b+a
+        B   A
+132 üslu.b+u.n+un
+
+133 üye+ler+i+dir+ler
+          B
+134 üye+li.ğ+i
+           C C
+135 üz+ül+m.ü.yor+um
+                 G
+136 aç+ık+la+dı+n.ız
+
+137 aç+ık+la+ma+lar+ı+dır
+                 D 
+138 aç+ık+la+ma+s.ı+n+a
+
+139 aç+ık+lan+abil+miş
+;!!
+140 aç+ık+lan+ama+dı+ğı
+              A
+141 aç+ıl+ış+ı.n+ın
+                  A
+142 aç+ıl+ım+lar+ı.n+dan
+           D
+143 aç+ma+s.ı+n+a
+
+144 ağır+laş+tır+arak
+                        D
+145 ağaç+lan+dır+ıl+ma+s.ı
+
+146 ağ+lı
+            A
+147 ağ+lar+ı.n+da
+
+148 ağ+lar+lar
+
+149 ağ+lar+mış
+
+150 ağrı+lar+a
+
+151 ağrı+t+an
+
+152 ağustos
+
+153 aş+ıl+abil+mek+te+dir
+             A
+154 aşı+lar+ı.n+da
+         D
+155 aşı+s.ı+n+a
+         D
+156 aşı+y.ı
+;!!
+157 aş+ama+dı+ğı
+
+158 aşina+lık
+
+159 aşk+ım
+
+160 aşk+ın+dır
+           G
+161 aş+ma+m.ız
+
+162 abone+ler
+
+163 abone+lik+ler+i
+           D
+164 abone+y.e
+         G
+165 acı+m.ız
+
+166 acı+m+dır
+
+167 acı+n
+
+168 acele
+           D
+169 acele+y.e
+      E
+170 ad.ım+larında
+          D
+171 ad+ı+y.sa
+
+172 adalet+çi
+
+173 adalet+in
+
+174 adalet+siz+lik
+
+175 adele+ler
+
+176 ad+lan+dır+mak
+
+177 ad+lar+da
+
+178 adler
+            D
+179 adliye+y.i
+             G
+180 ahlak+ı+m.ız+a
+
+181 akıl+lar+da
+          B   A
+182 ak+aca.ğ+ı.n+ı
+      L     G
+183 ak.l+ı+n.ız
+
+184 ak+la+mış
+
+185 akrep+ler+i
+
+186 akrobat+lar
+       C C
+187 aks.ı.yor
+                        G
+188 aktar+abil+i+yor+sun.uz
+      E
+189 al.ış+tır+dım
+      E
+190 al.ış+tır+ma+lar+a
+             D
+191 al+ım+ı+y.la
+               B     G
+192 al+abil+ece.ğ+i+m.iz
+                A;!!
+193 al+ama+dı+ğı.n+da
+                   
+194 al+ama+z+sın
+
+195 aldat+ıl+abil+ir
+          A
+196 alet+i.n+e
+               C C
+197 al+gı+lan+m.ı.yor
+           D
+198 al+ma+y.alım
+                D
+199 amaç+la+ma+s.ı
+
+200 ambalaj+ın
+
+201 ambar
+             D
+202 ambargo+y.a
+
+203 ambar+lı
+
+204 ameliyat+ta
+
+205 anı+msa+t+mak+la
+
+206 anadolu+su
+
+207 anket+ten
+       C  C
+208 anl.ı.yor+muş+um
+	    C  C
+209 anla+ş+am.ı.yor+du;??? new rule - amiyor
+                   D
+210 anla+ş+ama+ma+s.ı
+
+211 anla+t+ım+da
+
+212 anla+t+abil+iyor+lar+dı
+
+213 anla+t+abil+me+leri
+                  B
+214 anla+y+abil+di.ğ+im
+             C  C
+215 anla+y+am.ı.yor+du+m;??? new rule - amiyor
+
+216 anne+leri+yle
+          D
+217 anne+s.i+dir
+
+218 antarktik
+              H
+219 apolet+ler.i
+
+220 arşiv+ci+lik
+
+221 arşiv+le+n+me+si+ni
+                    
+222 ara+ş+tır+ıl+ma+sı
+
+223 ara+ş+tır+abil+iriz
+
+224 ara+ş+tır+an
+
+225 ara+ş+tır+ma+lar+ımız
+
+226 ara+makta+ydı
+             H
+227 ara+ma+lar.ı
+
+228 ara+rım
+
+229 ara+yan+ları+nda;???
+
+230 arka+da+ki
+
+231 armağan+mış
+
+232 ar+sız+ca
+
+233 art+ır+abil+mek
+                   H A
+234 art+ır+acak+lar.ı.n+ı
+
+235 art+ma+mış
+            
+236 art+ma+sı
+
+237 art+tır+ıl+mış+tır
+                  
+238 art+tır+ıl+ma+sı
+             C C
+239 art+tır+m.ı.yor
+          C  C      G
+240 arzu+l.u.yor+sun.uz
+
+241 arzu+m
+
+242 arzu+nuz+un
+
+243 asbaşkan+ı
+
+244 asetilen
+
+245 asit+ler+den
+
+246 asit+li
+
+247 asker+iye+de
+           H
+248 ast+lar.ı+n
+           N N N
+249 ast+lar.ı.n.ı 
+
+250 ast+lar+a
+            B
+251 at+ıl+dı.ğ+ın+dan
+
+252 at+ıl+dı+nız
+              M
+253 at+ıl+ma+n.ın
+
+254 at+acak+tı
+
+255 atardamar
+
+256 atardamar+ı
+
+257 atardamar+ın
+          D
+258 atlı+y.a
+                  D
+259 atla+n+ma+ma+s.ı
+               D
+260 atla+t+ma+s.ı
+
+261 at+sın+lar
+
+262 ayır+ır+sak
+             D   D
+263 ayır+ma+s.ı+n.ı
+
+264 ayırt
+                     D   D
+265 aydın+lat+ıl+ma+s.ı+n.ı
+
+266 ayet
+
+267 ayet+te
+
+268 ayna+lar+dan
+
+269 ayrı+ş+an
+
+270 ayrı+lan+lar+ın
+                B   A
+271 ayrı+m+cı+lı.ğ+ı.n
+                 B    A
+272 az+al+abil+ece.ğ+i.n+i 
+ 
+273 az+al+acak
+                        A
+274 az+al+t+abil+eceğ+i.n+i 
+
+275 az+al+t+a+maz
+
+276 azal+t+ma+sı
+
+277 aziz+ler
+
+278 azmi+yle
+             H
+279 böl+üm+ler.i
+
+280 büro+muz
+
+281 büyü+meli+dir
+                 B  A
+282 bağ+ım+sız+lı.ğ+ı.n+dan
+                 
+283 bağ+la+n+ıyor+uz
+
+284 bağ+la+n+abil+mek
+
+285 bağ+la+n+ma+mız
+
+286 bağ+la+n+tı+lar+da+ki
+                 D
+287 bağ+la+n+tı+s.ı+nda
+
+288 başar+alım
+            C C
+289 başar+am.ı.yor+uz
+
+290 başar+amaz+sa+m
+
+291 başar+dık+tan
+
+292 başar+mak
+              A
+293 başbakan+ı.n+ın 
+
+294 başbakan+ı+ydı
+
+295 başlıbaşına;*
+                    D
+296 baş+la+n+ıl+ma+s.ı
+
+297 baş+la+t+ıl+mış+sa
+                  B
+298 başmühendis+li.ğ+e
+
+299 başmühendis+lik
+            B   A
+300 başparma.ğ+ı.n
+               G
+301 baş+vur+u+n.uz
+               D
+302 baş+vur+u+y.u
+
+303 baba+yla
+
+304 bagaj+lar+ı+nda
+
+305 baget+le
+
+306 bak+ış+ma
+            B
+307 bakan+lı.ğ+ın
+                   A
+308 bakan+lık+lar+ı.n
+
+309 bakan+lar+ım
+
+310 bakan+lar+a
+
+311 bak+ma+n
+
+312 balçık+la
+
+313 balet
+
+314 balet+i
+           A
+315 balet+i.n
+
+316 balkon+da+ki
+
+317 balkon+lar+da
+            A
+318 balkon+u.n+dan
+
+319 banka+lar+dan
+
+320 barın+dır+ı+yor+du
+
+321 bara
+
+322 baraj+da+ki
+
+323 baraj+lar
+
+324 bastır+ma
+        B
+325 beşi.ğ+i
+         A
+326 beş+i.n
+
+327 bedava+cı
+
+328 beden+li
+
+329 beden+sel
+;!!!
+330 bekle+n+di+ği
+        C C
+331 bekl.i.yor+lar+mış
+
+332 bel+ir+le+mek+tir
+
+333 bel+ir+len+ir+di
+
+334 bel+ir+t+il+mez
+
+335 bel+ir+t+il+miş
+               D
+336 ben+im+ki+s.i
+               D        B
+337 ben+im+se+y.ebil+ece.ğ+i
+              D   D
+338 benze+me+s.i+n.i
+
+339 berin
+
+340 bes+in+ler+den
+
+341 bes+len+di
+            D
+342 bes+le+y.ebil+ecek
+
+343 beste+si
+           D
+344 beste+y.i
+           A
+345 beyaz+ı.n+a
+            B   A
+346 beyaz+lı.ğ+ı.n+a
+
+347 bil+dir+ge+ler+le
+                D
+348 bil+dir+ge+s.i+yle
+            
+349 bil+ebil+ir+di+k
+
+350 bilet+le
+                     
+351 bil+gi+len+di+r+ir
+
+352 bil+iş
+                 B
+353 bil+im+sel+li.ğ+e
+                 B
+354 bil+im+sel+li.ğ+i
+                D   B     
+355 bil+in+eme+y.ece.ğ+i
+
+356 bil+in+en+den
+
+357 bil+miş+ler
+
+358 bir+ey+ler+i
+                    G
+359 birik+im+ler+i+m.iz+e
+
+360 birik+ir
+;!!
+361 birik+ti+ği
+
+362 bir+leş+meli
+
+363 bir+leş+tir+il+di
+             A
+364 bir+ler+i.n+e
+
+365 bir+lik+ler+i
+                 A
+366 bir+lik+ler+i.n+de
+
+367 bit+ir+miş+ti+k
+
+368 boğaz+lar+a
+               D
+369 boş+al+ma+s.ı+n+dan
+
+370 boş+boğaz+lık
+
+371 boru+lar
+              A
+372 boru+lar+ı.n+ı
+
+373 boru+m
+
+374 boya+n+ma+lar+ı
+
+375 boy+la+dı
+
+376 boyun+uz+un
+            B
+377 bozuk+lu.ğ+un
+
+378 buğu
+
+379 buğu+n+un
+
+380 buda+k+lar+a
+
+381 bula+ş+abil+mek+te+dir
+             B   A
+382 bula+n+dı.ğ+ı.nı
+
+383 bula+n+dır+ma
+
+384 buldozer+ler+le
+
+385 bul+gu+lar+ı+yla
+            G
+386 bul+sa+n.ız
+
+387 bul+sa+ydı+m
+            A
+388 bul+uş+u.n+a
+                        A
+389 bul+un+abil+me+ler+i.n+i
+
+390 bul+un+ama+mış+tır
+               A
+391 bulut+lar+ı.n
+
+392 bulut+tan
+
+393 bul+uver+ir
+
+394 bul+u+yor+muş
+
+395 bu+n+un+ki
+              A
+396 bura+lar+ı.n+ı
+          D
+397 bura+s.ı+ydı
+
+398 bur+sun
+           D
+399 cümle+s.i+dir
+
+400 cahil+iz
+
+401 canbaz
+            A
+402 canbaz+ı.n
+            D
+403 cenaze+s.i+n+e
+            D
+404 cenaze+s.i+n+i
+
+405 cerrah+lar+a
+        B   A
+406 ceva.b+ı.n+da
+
+407 ceza+lan+dır+ıl+maz
+
+408 cimbom
+
+409 cip+e
+
+410 cumba+lar
+         A
+411 dış+ı.n+da+ki+n+i
+         A
+412 dış+ı.n+da+ymış
+            D
+413 dış+la+y.ıp
+
+414 dış+satım+cı
+             B
+415 döşe+n+di.ğ+i
+
+416 döşe+t+ti
+
+417 dök+se
+
+418 dök+tür+en
+                   D 
+419 dön+üş+tür+me+y.e
+
+420 dön+ül+ecek+ti
+
+421 düş+üş+ten
+
+422 düş+ün+üş+e
+
+423 düş+ün+ül+ür
+                   B
+424 düş+ün+ül+me+di.ğ+i
+                   A
+425 düş+ün+ür+ler+i.n
+
+426 düş+ün+ür+sün
+             C C
+427 düş+ün+em.i.yor+dum
+
+428 düş+üp
+
+429 düş+ür+me+di
+           B
+430 düş+ece.ğ+iz
+
+431 düş+me+den
+            D
+432 düş+me+s.i
+;!!
+433 düş+tü+ğü+nden
+        B   A
+434 düdü.ğ+ü.n+ü
+
+435 dün+ler
+
+436 dünya+m+ı
+
+437 dünya+m+a
+
+438 düzen+le+mek+te+dir
+
+439 düzen+le+yi+ci+ler+i
+
+440 dağıl+ma+lar
+
+441 dağıl+maz+sa
+                    A
+442 dağıt+acak+lar+ı.n+ı
+
+443 daire+de
+             A
+444 dal+lar+ı.n+dan
+        B
+445 dama.d+ı+yla
+              C C
+446 darülaceze.y.e
+           D
+447 darbe+s.i+n+i
+
+448 davet+li+ler+ce
+
+449 dayan+ama+z
+                         B     G
+450 değ+er+len+dir+eme+di.ğ+i+m.iz
+
+451 değ+er+len+dir+il+ebil+ir+di
+
+452 değ+er+len+dir+il+ir+ler
+                       G
+453 değ+er+len+dir+me+m.iz+in
+
+454 değiş+me+me+li
+
+455 değ+in+il+mek+te
+
+456 de+dik+çe
+
+457 defaten
+
+458 defterdar+lık
+                  A
+459 dejenerasyon+u.n
+
+460 dekar+dır
+            D
+461 delege+s.i+n+i
+
+462 de+me+di+ği+m;!!!
+
+463 de+mez+miş
+
+464 demokrasi+ler+i
+                  A 
+465 dene+dik+ler+i.n+i
+
+466 dene+r+im
+
+467 dene+t+im+i+yle
+
+468 denge+siz+lik+ler
+
+469 depo+lan+maz
+
+470 deprem+in
+
+471 deprem+ler+i
+
+472 derbent+e
+
+473 dere+bey+i
+                A
+474 derece+ler+i.n+e
+
+475 dergah+ı
+
+476 dergah+lar
+
+477 dergah+lar+ı
+         B   A
+478 derne.ğ+i.n+e
+
+479 dernek+leş+me
+
+480 ders+ler+le
+
+481 dert+len+ip
+
+482 destek+le+miş+ler
+
+483 devşir+en
+
+484 devlet+li+m
+               A
+485 devre+ler+i.n+de
+               A
+486 devre+ler+i.n+e
+       L
+487 dev.r+il+ebil+ecek
+
+488 dikkat+ler+i+n+in
+
+489 dik+tir+di+ği;!!!
+
+490 dile+n+ci+ler
+
+491 dile+r+ler+se
+       C C
+492 dil.i.yor
+
+493 dil+len+dir+mek
+
+494 dil+siz
+           G
+495 din+i+m.iz+in
+
+496 dinle+mek
+           C C
+497 dinle+m.i.yor+sa
+
+498 dinle+tir
+           D   B
+499 dinle+y.ece.ğ+im
+           D
+500 dinle+y.ecek
