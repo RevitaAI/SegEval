@@ -128,11 +128,11 @@ def evaluate(gold_dict, pred_dict):
     for word in gold_dict:
         if word not in pred_dict:
             continue
+        assert len(gold_dict[word]) == len(pred_dict[word]), f"Length mismatch for word '{word}': {len(gold_dict[word])} vs {len(pred_dict[word])}"
         gold_labels.extend([_ for _ in gold_dict[word]])
         pred_labels.extend([_ for _ in pred_dict[word]])
         if '?' in gold_dict[word]:
             print(f"Warning: '?' found in gold labels for word '{word}': {gold_dict[word]}")
-    
     print(classification_report(gold_labels, pred_labels, digits=5))
 
 
