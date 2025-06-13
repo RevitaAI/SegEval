@@ -38,12 +38,12 @@ def process_acceptable_theories(raw_theories):
 def parse_gold_text(gold_text, theories):
     word2gold = {}
     word2rule2digit = {}
-    lines = gold_text.strip().split('\n')
+    lines = gold_text.split('\n')
     if lines[0].startswith('1'):
         lines = ['\n'] + lines  # Add empty line for 0th word
     
     for i, line in enumerate(lines):
-        line = line.split(';')[0].strip()  # Remove comments
+        line = line.split(';')[0].rstrip()  # Remove comments
         if len(line) and line[0].isdigit():
             seg_id, segment_str = line.strip().split()
             rule_str = lines[i - 1].split(';')[0].rstrip()[len(seg_id) + 1:]
@@ -60,6 +60,7 @@ def parse_gold_text(gold_text, theories):
                         is_previous_boundary = True
                         
                     case '.':
+                        assert len(rule_id.strip()), f"Theory rule not aligned with gold text: {rule_id} - {word} in {segment_str}"
                         gold_digits += '?'
                         if rule_id in rule_digit_index and len(rule_digit_index[rule_id][-1]) < len(theories[rule_id][0]):
                             rule_digit_index[rule_id][-1].append(len(gold_digits) - 1)

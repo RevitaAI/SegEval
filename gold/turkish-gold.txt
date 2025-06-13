@@ -4,7 +4,7 @@
 2 çık.ar+ım+lar
      E          D
 3 çık.ar+ma+sı+y.dı
-     E        G
+     E       G
 4 çık.ar+sa+n.ız
      E
 5 çık.ar+t+ıl+mak
@@ -182,7 +182,7 @@
 107 üç+üncü+ler
              D;!!
 108 üç+üncü+s.ü+n+ün
-              A
+             A
 109 üşü+dü+ğü.n+ü
 
 110 ücret+im+i
@@ -380,9 +380,9 @@
 206 anadolu+su
 
 207 anket+ten
-       C  C
+       C C
 208 anl.ı.yor+muş+um
-	    C  C
+             C C
 209 anla+ş+am.ı.yor+du;??? new rule - amiyor
                    D
 210 anla+ş+ama+ma+s.ı
@@ -394,7 +394,7 @@
 213 anla+t+abil+me+leri
                   B
 214 anla+y+abil+di.ğ+im
-             C  C
+             C C
 215 anla+y+am.ı.yor+du+m;??? new rule - amiyor
 
 216 anne+leri+yle
@@ -418,7 +418,7 @@
 225 ara+ş+tır+ma+lar+ımız
 
 226 ara+makta+ydı
-             H
+              H
 227 ara+ma+lar.ı
 
 228 ara+rım
@@ -444,7 +444,7 @@
 238 art+tır+ıl+ma+sı
              C C
 239 art+tır+m.ı.yor
-          C  C      G
+          C C       G
 240 arzu+l.u.yor+sun.uz
 
 241 arzu+m
@@ -508,11 +508,11 @@
 270 ayrı+lan+lar+ın
                 B   A
 271 ayrı+m+cı+lı.ğ+ı.n
-                 B    A
+                  B   A
 272 az+al+abil+ece.ğ+i.n+i 
  
 273 az+al+acak
-                        A
+                       A
 274 az+al+t+abil+eceğ+i.n+i 
 
 275 az+al+t+a+maz
@@ -522,13 +522,13 @@
 277 aziz+ler
 
 278 azmi+yle
-             H
+              H
 279 böl+üm+ler.i
 
 280 büro+muz
 
 281 büyü+meli+dir
-                 B  A
+                 B   A
 282 bağ+ım+sız+lı.ğ+ı.n+dan
                  
 283 bağ+la+n+ıyor+uz
@@ -555,7 +555,7 @@
 
 294 başbakan+ı+ydı
 
-295 başlıbaşına;*
+295 başlıbaşına
                     D
 296 baş+la+n+ıl+ma+s.ı
 
@@ -624,7 +624,7 @@
 328 beden+li
 
 329 beden+sel
-;!!!
+
 330 bekle+n+di+ği
         C C
 331 bekl.i.yor+lar+mış
@@ -686,7 +686,7 @@
 359 birik+im+ler+i+m.iz+e
 
 360 birik+ir
-;!!
+
 361 birik+ti+ği
 
 362 bir+leş+meli
@@ -830,7 +830,7 @@
 431 düş+me+den
             D
 432 düş+me+s.i
-;!!
+
 433 düş+tü+ğü+nden
         B   A
 434 düdü.ğ+ü.n+ü
